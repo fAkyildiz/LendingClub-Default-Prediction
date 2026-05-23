@@ -1,0 +1,11 @@
+# Large data files
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+
+# OS
+.DS_Store
+Thumbs.db
